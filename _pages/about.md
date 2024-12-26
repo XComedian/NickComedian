@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='#about-me'></span>
 
 Hi, I’m Nick, a second-year Ph.D. student in the Environmental, Civil, Agriculture and Mechanical(ECAM) program at the College of Engineering, University of Georgia (UGA). I'm working as a Research assistant in <a href="https://smil.engr.uga.edu/">Jidong, James Yang's lab</a>. My research primarily focuses on leveraging computer vision techniques to address challenges in transportation. I am passionate about integrating computer vision algorithms with real-world applications to improve transportation efficiency, safety, and sustainability.
 
