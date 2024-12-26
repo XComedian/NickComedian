@@ -41,6 +41,6 @@ He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 - <img src="/images/bnu_logo.png" width="20" height="20"> *2015.09 - 2019.06*, BS in Statistics, Beijing Normal University, Beijing 
 
 # 💻 Work And Internships
-<a id="work and internships"></a>
+<a id="work-and-internships"></a>
 - *2021.08 - 2023.07*, Huawei Technologies Co., Ltd, GuanDong, China
 - *2021.05 - 2021.08*, OSAUR GAMES, Beijing, China.
