@@ -39,7 +39,7 @@ He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 - 🏆*2017/2018/2019* Scholarship of Beijing Normal University
 
 # 📖 Educations
-- <img src="/images/GEORGIA-FS-FC.png" width="40" height="20"> *2023.08 - (now)*, PhD in Engineering, University of Georgia, Athens
+- <img src="/images/UGA_logo.png" width="25" height="20"> *2023.08 - (now)*, PhD in Engineering, University of Georgia, Athens
 - <img src="/images/bnu_logo.png" width="20" height="20"> *2019.06 - 2021.06*, MS in Statistics, Beijing Normal University, Beijing 
 - <img src="/images/bnu_logo.png" width="20" height="20"> *2015.09 - 2019.06*, BS in Statistics, Beijing Normal University, Beijing 
 
