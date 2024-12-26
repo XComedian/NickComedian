@@ -23,8 +23,8 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08*: &nbsp;🎉🎉 I was accepted as a PhD student in UGA.
+- *2021.03*: &nbsp;🎉🎉 Our paper <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full"> "Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example" </a> is published on Frontiers. 
 
 # 📝 Publications 
 
