@@ -41,7 +41,7 @@ He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 # 📖 Educations
 - *2023.08 - (now)*, PhD in Engineering, University of Georgia, Athens
 - *2019.06 - 2021.06*, MS in Statistics, Beijing Normal University, Beijing 
-- <img src="images/bnu_logo.png" width="20" height="20">*2015.09 - 2019.06*, BS in Statistics, Beijing Normal University, Beijing 
+- <img src="/images/bnu_logo.png" width="20" height="20">*2015.09 - 2019.06*, BS in Statistics, Beijing Normal University, Beijing 
 
 # 💻 Work And Internships experience
 - *2021.08 - 2023.07*, Huawei Technologies Co., Ltd, GuanDong, China
