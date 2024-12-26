@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I’m Nick, a second-year Ph.D. student in the Environmental, Civil, Agriculture and Mechanical(ECAM) program at the College of Engineering, University of Georgia (UGA). I'm working as a Research assistant in Jidong, James Yang's lab (https://smil.engr.uga.edu/). My research primarily focuses on leveraging computer vision techniques to address challenges in transportation. I am passionate about integrating computer vision algorithms with real-world applications to improve transportation efficiency, safety, and sustainability.
 
-I graduated from Beijing Normal University<a href='https://english.bnu.edu.cn/'> with a bachelor's degree and a master degree in Department of Statistics, advised by Junlong Zhao (赵俊龙) <a href='https://stat.bnu.edu.cn/english/faculty/facultydirectory/departmentofappliedstatistics/237292.html'>.
+I graduated from Beijing Normal University<a href='https://english.bnu.edu.cn/'> with a bachelor's degree and a master degree in Department of Statistics, advised by <a href='https://stat.bnu.edu.cn/english/faculty/facultydirectory/departmentofappliedstatistics/237292.html'> Junlong Zhao (赵俊龙) .
 
 
 # 🔥 News
