@@ -44,3 +44,6 @@ He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 <a id="work-and-internships"></a>
 - *2021.08 - 2023.07*, Huawei Technologies Co., Ltd, GuanDong, China
 - *2021.05 - 2021.08*, OSAUR GAMES, Beijing, China.
+
+# 🏀Basketball is life
+<img src="images/2017_MINGYUE.jpg" width="300" height="200"><img src="images/2018_MINGYUE.jpg" width="300" height="200"><img src="images/2018_MINGYUE2.jpg" width="300" height="200">
