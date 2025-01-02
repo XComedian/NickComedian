@@ -26,28 +26,6 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/cognitive/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" >
-
-<span style="font-size: 1.2em;">
-    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/pdf" style="text-decoration: none; color: inherit;">
-        Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
-    </a>
-</span>
-
-He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
-
-*Frontiers in Psychology 2021*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-<!--     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> -->
-</div>
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI</div><img src='images/derain_project/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
@@ -69,6 +47,26 @@ He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/cognitive/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/pdf" style="text-decoration: none; color: inherit;">
+        Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
+    </a>
+</span>
+
+He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
+
+*Frontiers in Psychology 2021*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+<!--     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> -->
+</div>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 <a id="honors-and-awards"></a>
