@@ -26,10 +26,9 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 [Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full)
-
 He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 
-<a href="https://www.mdpi.com/2073-431X/14/1/11"> Leveraging Scene Geometry and Depth Information for Robust Image Deraining</a>
+<img src="images/derain_project/Graphic_abstract.png" width="200" height="100"> <a href="https://www.mdpi.com/2073-431X/14/1/11"> Leveraging Scene Geometry and Depth Information for Robust Image Deraining</a>
 Ningning Xu, Jidong J. Yang
 
 # 🎖 Honors and Awards
