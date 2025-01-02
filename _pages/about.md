@@ -29,6 +29,8 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 
+<a href="https://www.mdpi.com/2073-431X/14/1/11"> Leveraging Scene Geometry and Depth Information for Robust Image Deraining</a>
+Ningning Xu, Jidong J. Yang
 
 # 🎖 Honors and Awards
 <a id="honors-and-awards"></a>
