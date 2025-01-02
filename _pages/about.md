@@ -18,6 +18,7 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 # 🔥 News
 <a id="news"></a>
+- 🎉*2025.01*: Our paper <a href="https://www.mdpi.com/2073-431X/14/1/11">Leveraging Scene Geometry and Depth Information for Robust Image Deraining </a> is published on MDPI Computers.
 - 📖*2024.12*：New preprint: Leveraging Scene Geometry and Depth Information for Robust Image Deraining. <a href="https://arxiv.org/abs/2412.19913">https://arxiv.org/abs/2412.19913</a>
 - 🎉*2023.08*: I was accepted as a PhD student in UGA.
 - 📖*2021.03*: Our paper <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full"> "Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example" </a> is published on Frontiers. 
