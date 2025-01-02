@@ -30,12 +30,15 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
-    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; color: inherit;">
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/pdf" style="text-decoration: none; color: inherit;">
         Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
     </a>
 </span>
 
 He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
+
+*Frontiers in Psychology 2021*
+
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 <!--     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
@@ -53,7 +56,11 @@ He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
         Leveraging Scene Geometry and Depth Information for Robust Image Deraining
     </a>
 </span>
+
 **<u>Ningning Xu</u>**, Jidong J. Yang
+
+*Computers 2025, MDPI*
+
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
     <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
