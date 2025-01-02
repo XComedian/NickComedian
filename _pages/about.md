@@ -29,11 +29,28 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 
-<img src="images/derain_project/Graphic_Abstract.png" width="400" height="200">
-<a href="https://www.mdpi.com/2073-431X/14/1/11"> Leveraging Scene Geometry and Depth Information for Robust Image Deraining</a>
-Ningning Xu, Jidong J. Yang
-<a href="https://github.com/XComedian/DerainDepth">Project</a>
-- We introduce a novel learning framework that integrates multiple networks: an AutoEncoder for deraining, an auxiliary network to incorporate depth information, and two supervision networks to enforce feature consistency between rainy and clear scenes. 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- 左侧图片 -->
+  <div style="flex-shrink: 0;">
+    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 200px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div>
+    <a href="https://www.mdpi.com/2073-431X/14/1/11" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #007bff;">
+      Leveraging Scene Geometry and Depth Information for Robust Image Deraining
+    </a><br>
+    <p><strong>Ningning Xu, Jidong J. Yang</strong></p>
+    <p>
+      <a href="https://github.com/XComedian/DerainDepth" style="color: #007bff;">Project</a>
+    </p>
+    <ul>
+      <li>We introduce a novel learning framework that integrates multiple networks: an AutoEncoder for deraining, an auxiliary network to incorporate depth information, and two supervision networks to enforce feature consistency between rainy and clear scenes.</li>
+    </ul>
+  </div>
+
+</div>
 
 
 # 🎖 Honors and Awards
