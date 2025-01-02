@@ -26,7 +26,7 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontires</div><img src='images/cognitive/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/cognitive/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
@@ -36,7 +36,6 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 </span>
 
 He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
-We developed pre- and post-tests for six data distribution attributes (sort, median, average, variance, weighted average, and mode) and applied a cognitive diagnosis model to identify weaknesses and evaluate its effectiveness in targeted interventions to enhance students' abilities.
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
 <!--     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
@@ -55,7 +54,6 @@ We developed pre- and post-tests for six data distribution attributes (sort, med
     </a>
 </span>
 **<u>Ningning Xu**</u>, Jidong J. Yang
-We introduce a novel learning framework that integrates multiple networks: an AutoEncoder for deraining, an auxiliary network to incorporate depth information, and two supervision networks to enforce feature consistency between rainy and clear scenes
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
     <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a> -->
