@@ -26,47 +26,42 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontires</div><img src='images/cognitive/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
 
-  <!-- 左侧图片 -->
-  <div style="flex-shrink: 0;">
-    <img src="images/cognitive/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
-  </div>
+<span style="font-size: 1.2em;">
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; color: inherit;">
+        Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
+    </a>
+</span>
 
-  <!-- 右侧文字 -->
-  <div>
-    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #007bff;">
-      Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
-    </a><br>
-    <p><strong>He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang</strong></p>
-    <ul>
-      <li>This study developed pre- and post-tests for six data distribution attributes (sort, median, average, variance, weighted average, and mode) and applied a cognitive diagnosis model to identify weaknesses and evaluate its effectiveness in targeted interventions to enhance students' abilities.</li>
-    </ul>
-  </div>
-
+He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
+We developed pre- and post-tests for six data distribution attributes (sort, median, average, variance, weighted average, and mode) and applied a cognitive diagnosis model to identify weaknesses and evaluate its effectiveness in targeted interventions to enhance students' abilities.
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+<!--     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> -->
+</div>
+</div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <!-- 左侧图片 -->
-  <div style="flex-shrink: 0;">
-    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 250px;">
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI</div><img src='images/derain_project/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
 
-  <!-- 右侧文字 -->
-  <div>
-    <a href="https://www.mdpi.com/2073-431X/14/1/11" style="font-size: 15px; font-weight: bold; text-decoration: none; color: #007bff;">
-      Leveraging Scene Geometry and Depth Information for Robust Image Deraining
-    </a><br>
-    <p><strong>Ningning Xu, Jidong J. Yang</strong></p>
-    <p>
-      <a href="https://github.com/XComedian/DerainDepth" style="color: #007bff;">Project</a>
-    </p>
-    <ul>
-      <li>We introduce a novel learning framework that integrates multiple networks: an AutoEncoder for deraining, an auxiliary network to incorporate depth information, and two supervision networks to enforce feature consistency between rainy and clear scenes.</li>
-    </ul>
-  </div>
-
+<span style="font-size: 1.2em;">
+    <a href="https://www.mdpi.com/2073-431X/14/1/11" style="text-decoration: none; color: inherit;">
+        Leveraging Scene Geometry and Depth Information for Robust Image Deraining
+    </a>
+</span>
+**<u>Ningning Xu**</u>, Jidong J. Yang
+We introduce a novel learning framework that integrates multiple networks: an AutoEncoder for deraining, an auxiliary network to incorporate depth information, and two supervision networks to enforce feature consistency between rainy and clear scenes
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a> -->
+<!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> -->
+</div>
+</div>
 </div>
 
 
