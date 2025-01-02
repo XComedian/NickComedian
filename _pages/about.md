@@ -33,12 +33,12 @@ He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 
   <!-- 左侧图片 -->
   <div style="flex-shrink: 0;">
-    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 200px;">
+    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 300px;">
   </div>
 
   <!-- 右侧文字 -->
   <div>
-    <a href="https://www.mdpi.com/2073-431X/14/1/11" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #007bff;">
+    <a href="https://www.mdpi.com/2073-431X/14/1/11" style="font-size: 15px; font-weight: bold; text-decoration: none; color: #007bff;">
       Leveraging Scene Geometry and Depth Information for Robust Image Deraining
     </a><br>
     <p><strong>Ningning Xu, Jidong J. Yang</strong></p>
