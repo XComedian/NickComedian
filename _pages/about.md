@@ -30,7 +30,7 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
   <!-- 左侧图片 -->
   <div style="flex-shrink: 0;">
-    <img src="images/cognitive/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <img src="images/cognitive/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
   </div>
 
   <!-- 右侧文字 -->
