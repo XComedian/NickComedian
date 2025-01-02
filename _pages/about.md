@@ -56,8 +56,8 @@ He Ren, **<u>Ningning Xu</u>**, Yuxiang Lin, Shumei Zhang, Tao Yang
 **<u>Ningning Xu**</u>, Jidong J. Yang
 <div style="display: flex; gap: 5px; margin-top: 10px;">
     <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a> -->
-<!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> -->
+    <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+<!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> 
 </div>
 </div>
 </div>
