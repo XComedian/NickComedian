@@ -25,15 +25,32 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 # 📝 Publications 
 <a id="publications"></a>
-[Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full)
-
-He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- 左侧图片 -->
   <div style="flex-shrink: 0;">
-    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 300px;">
+    <img src="images/cognitive/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div>
+    <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.628607/full" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #007bff;">
+      Remedial Teaching and Learning From a Cognitive Diagnostic Model Perspective: Taking the Data Distribution Characteristics as an Example
+    </a><br>
+    <p><strong>He Ren, Ningning Xu, Yuxiang Lin, Shumei Zhang, Tao Yang</strong></p>
+    <ul>
+      <li>This study developed pre- and post-tests for six data distribution attributes (sort, median, average, variance, weighted average, and mode) and applied a cognitive diagnosis model to identify weaknesses and evaluate its effectiveness in targeted interventions to enhance students' abilities.</li>
+    </ul>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- 左侧图片 -->
+  <div style="flex-shrink: 0;">
+    <img src="images/derain_project/Graphic_Abstract.png" alt="Graphic Abstract" style="width: 400px; height: 250px;">
   </div>
 
   <!-- 右侧文字 -->
