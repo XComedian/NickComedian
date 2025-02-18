@@ -26,6 +26,27 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA</div><img src='images/defocus/arch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2409.12323" style="text-decoration: none; color: inherit;">
+        Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus
+    </a>
+</span>
+
+Jinchang Zhang*,**<u>Ningning Xu*</u>**, Hao Zhang, Guoyu Lu
+
+*Computers 2025, MDPI*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+<!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> 
+</div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI</div><img src='images/derain_project/Graphic_Abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
