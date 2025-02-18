@@ -37,11 +37,11 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 Jinchang Zhang*,**<u>Ningning Xu*</u>**, Hao Zhang, Guoyu Lu
 
-*Computers 2025, MDPI*
+*ICRA 2025*
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/pdf/2412.19913" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+    <a href="https://arxiv.org/abs/2409.12323" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+<!--     <a href="https://github.com/XComedian/DerainDepth" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a> -->
 <!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> 
 </div>
 </div>
