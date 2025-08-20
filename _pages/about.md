@@ -27,7 +27,7 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 # 📝 Publications 
 <a id="publications"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/defocus/arch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/VISTA/VISTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
 
 <span style="font-size: 1.2em;">
