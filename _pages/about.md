@@ -18,7 +18,8 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 # 🔥 News
 <a id="news"></a>
-- 📖*2025.8*：New preprint: Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference. <a href="https://arxiv.org/abs/2508.13439">https://arxiv.org/abs/2412.19913</a>
+- 📖*2025.8*：New preprint: Multi-Agent Visual-Language Reasoning for Comprehensive Highway Scene Understanding. <a href="https://arxiv.org/abs/2508.17205">https://arxiv.org/abs/2508.17205</a>
+- 📖*2025.8*：New preprint: Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference. <a href="https://arxiv.org/abs/2508.13439">https://arxiv.org/abs/2508.13439</a>
 - 🎉*2025.01*: Our paper <a href="https://arxiv.org/abs/2409.12323">Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus</a> is accepted by ICRA.
 - 🎉*2025.01*: Our paper <a href="https://www.mdpi.com/2073-431X/14/1/11">Leveraging Scene Geometry and Depth Information for Robust Image Deraining </a> is published on MDPI Computers.
 - 📖*2024.12*：New preprint: Leveraging Scene Geometry and Depth Information for Robust Image Deraining. <a href="https://arxiv.org/abs/2412.19913">https://arxiv.org/abs/2412.19913</a>
@@ -27,6 +28,25 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
 
 # 📝 Publications 
 <a id="publications"></a>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/Highway_Understanding/procedure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" >
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2508.17205" style="text-decoration: none; color: inherit;">
+        Multi-Agent Visual-Language Reasoning for Comprehensive Highway Scene Understanding
+    </a>
+</span>
+
+Yunxiang Yang*, **<u>Ningning Xu*</u>**, Jidong J. Yang
+
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2508.17205" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/SMIL-AI/SMART-VIEW" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+<!--     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a> --> 
+</div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/VISTA/VISTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" >
