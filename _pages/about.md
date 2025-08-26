@@ -37,7 +37,7 @@ I graduated from <a href="https://english.bnu.edu.cn/"> Beijing Normal Universit
     </a>
 </span>
 
-Yunxiang Yang*, **<u>Ningning Xu*</u>**, Jidong J. Yang
+Yunxiang Yang*, **<u>Ningning Xu</u>**, Jidong J. Yang
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
