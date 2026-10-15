@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Ningning Xu (Nick)"
-description              : "Research assistant in ECAM, College of Engineering, UGA. Focusing on Computer Vision techniques to address challenges in transportation. "
-repository               : "XComedian/XComedian-homepage.github.io"
+description              : "Ningning Xu researches image restoration, efficient vision models, and transportation perception at the University of Georgia. Expected PhD graduation May 2027."
+repository               : "XComedian/NickComedian"
+url                      : "https://xcomedian.github.io"
+baseurl                  : "/NickComedian"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +30,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yEIAZ4AAAAAJ&hl=en"
-  email            : "nx32943@uga.edu"
+  email            : "Ningning.Xu@uga.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -137,7 +139,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xcomedian.github.io/NickComedian/sitemap.xml

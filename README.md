@@ -1,72 +1,31 @@
+# Ningning Xu Research Portfolio
 
-<h1 align="center">
-AcadHomepage
-</h1>
+Personal research portfolio for Ningning Xu at the University of Georgia. Public site: [xcomedian.github.io/NickComedian](https://xcomedian.github.io/NickComedian/).
 
-<div align="center">
+## Site Structure
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+- `index.html`: standalone homepage, published work, projects, experience, and contact links.
+- `assets/css/portfolio.css`: responsive layout and print styles.
+- `assets/js/portfolio.js`: mobile navigation and publication filters. The content remains readable without JavaScript.
+- `files/Ningning_Xu_CV.pdf`: public CV in Times New Roman with email contact only.
+- `images/`: existing avatar and research illustrations.
+- `_config.yml`: GitHub Pages configuration.
+- `about/index.html` and `about.html`: compatibility redirects for the old About routes.
+- `.nojekyll`: publish the static files without a Jekyll build.
+- `sitemap.xml` and `robots.txt`: canonical homepage discovery.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+The homepage is static HTML and does not require a JavaScript build tool or external fonts. `.nojekyll` lets branch-based GitHub Pages publish the files directly. The older Jekyll theme files remain available for reference; `about/index.html` and `about.html` preserve the old About routes.
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+## Local Preview
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+Serve this repository with any static HTTP server, then open `index.html`. For a preview that checks the GitHub project path, serve the repository from `/NickComedian/` under a parent directory. The homepage uses relative asset links so it works at both the project path and a local root.
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+## Updating Content
 
-## Quick Start
+Edit the relevant section in `index.html`. A publication uses an `article` with class `publication`; its `data-topics` attribute supplies the filter topics. Use `vision`, `reasoning`, or `statistics`, separated by spaces. Keep published journal, conference proceedings, and workshop statuses explicit. Update the footer date and sitemap date when publishing changes.
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+Replace the public PDF at the same filename when updating the CV. Keep private contact details and materials awaiting company clearance out of public files. Preserve an earlier version outside the published repository before substantial content revisions.
 
-## Debug Locally
+## Credits
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
-
-# Acknowledges
-
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+The original academic site used [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Its theme files and license are retained. The portfolio reuses the site's existing avatar and research illustrations.
